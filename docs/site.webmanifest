@@ -1,0 +1,17 @@
+{
+  "name": "Vinted Listing Assistant",
+  "short_name": "VLA",
+  "description": "Local-first AI for product photo analysis and polished listing drafts.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#07111f",
+  "theme_color": "#07111f",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
